@@ -22,7 +22,7 @@ function Hero() {
 </div>
         </div>
         <div className='hero-right'>
-            <img src={Cart1} ></img>
+            <img src={Cart1} alt=''></img>
         </div>
     </div>
   )
