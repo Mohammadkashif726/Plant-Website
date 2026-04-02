@@ -1,0 +1,28 @@
+.cards{
+    margin: 30px;
+    display: flex;
+    
+}
+.card{
+    padding: 10px;
+    width: 300px;
+    border: 1px solid green;
+    margin-right: 30px;
+}
+.card-content{
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin-bottom: 10px;
+}
+.card-content>span{
+    font-size: large;
+    font-weight: bold;
+}
+.icon{
+    font-size: 18px;
+}
+.card>span{
+    color: saddlebrown;
+    text-align: center;
+}

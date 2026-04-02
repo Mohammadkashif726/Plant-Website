@@ -1,0 +1,79 @@
+.links{
+    background-color: #c6d988;
+    padding: 40px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-top: 90px;
+}
+
+.link-list-heading{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.link-lists{
+        display: flex;
+    gap: 80px;
+}
+.link-list{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.link-list>span{
+    font-size: 20px;
+    font-weight: 600;
+    color: green;
+}
+.link-list ul{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 3px;
+    padding-top: 5px;
+    margin: 0;        
+}
+.link-list ul li{
+    padding-bottom: 2px;
+    list-style: none;
+    text-decoration: none;
+}
+.link-list ul li a{
+    text-decoration: none;
+    color: green;
+}
+.newsletter{
+    position: absolute;
+    top: -40px;
+    border-radius: 20px;
+    z-index: 999;
+    background-color: green;
+    width: 80%;
+    height: 100px;
+    padding: 10px 20px ;
+}
+.newsletter>span:nth-of-type(1){
+    font-size: 30px;
+    color: white;
+}.newsletter-content>input{
+    padding: 6px 4px ;
+    width: 80%;
+    height: 25px;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+.newsletter-content>button{
+    margin-left: 10px;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+}
