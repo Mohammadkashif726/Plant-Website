@@ -11,7 +11,7 @@ function Navbar() {
                     <ul>
                         <li><a href='#hero'>Home</a></li>
                         <li><a href='#about'>About</a></li>
-                        <li><a href='#'>Popular</a></li>
+                        <li><a href='#popular'>Popular</a></li>
                         <li><a href='#review'>Review</a></li>
                     </ul>
                 </div>

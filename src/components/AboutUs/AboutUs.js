@@ -14,7 +14,7 @@ function AboutUs() {
         <div className='about-sections'>
             <div className='about-section'>
                 <div className='about-img'>
-                    <img src={Plant1} />
+                    <img src={Plant1} alt='plant'/>
                 </div>
                 <div className='about-content'>
                     <span>Make your <span className='yellow-heading'>organic</span> garden</span>
@@ -28,7 +28,7 @@ function AboutUs() {
                     <span>Make your organic garden a super place to live and to stay from a hectic and polluted world and also to spend your spare time perfectly.</span>
                 </div>
                 <div className='about-img'>
-                    <img src={Plant2} />
+                    <img src={Plant2} alt='plant2'/>
                 </div>
             </div>
         </div>

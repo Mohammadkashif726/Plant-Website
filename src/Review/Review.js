@@ -57,7 +57,7 @@ function Review() {
           <div className='review-slide'>
             <span>This plant shop is magnificent and the staff is very helpful and supportive and i have made numerous visits to this shop and nothing else feels more comfortable and enjoyable experience than this.</span>
             <div className='review-content'>
-                <img src={Review1} alt="" />
+                <img src={Review2} alt="" />
                 <div className='slide-headings'>
                     <span>John Doe</span>
                     <span>Designer</span>

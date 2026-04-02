@@ -18,31 +18,31 @@ function Links() {
             <div className='link-list'>
                 <span>Quick Links</span>
                 <ul>
-                    <li><a href='#'>Plants</a></li>
-                    <li><a href='#'>Flowers</a></li>
-                    <li><a href='#'>Gardening</a></li>
-                    <li><a href='#'>Seed</a></li>
-                    <li><a href='#'>Shipping</a></li>
+                    <li><a >Plants</a></li>
+                    <li><a >Flowers</a></li>
+                    <li><a >Gardening</a></li>
+                    <li><a >Seed</a></li>
+                    <li><a >Shipping</a></li>
                 </ul>
             </div>
             <div className='link-list'>
                 <span>Popular Services</span>
                 <ul>
-                    <li><a href='#'>Plants</a></li>
-                    <li><a href='#'>Flowers</a></li>
-                    <li><a href='#'>Gardening</a></li>
-                    <li><a href='#'>Seed</a></li>
-                    <li><a href='#'>Shipping</a></li>
+                    <li><a >Plants</a></li>
+                    <li><a >Flowers</a></li>
+                    <li><a >Gardening</a></li>
+                    <li><a >Seed</a></li>
+                    <li><a >Shipping</a></li>
                 </ul>
             </div>
             <div className='link-list'>
                 <span>Contact Us</span>
                 <ul>
-                    <li><a href='#'>Plants</a></li>
-                    <li><a href='#'>Flowers</a></li>
-                    <li><a href='#'>Gardening</a></li>
-                    <li><a href='#'>Seed</a></li>
-                    <li><a href='#'>Shipping</a></li>
+                    <li><a >Plants</a></li>
+                    <li><a >Flowers</a></li>
+                    <li><a >Gardening</a></li>
+                    <li><a >Seed</a></li>
+                    <li><a >Shipping</a></li>
                 </ul>
             </div>
         </div>
