@@ -77,3 +77,35 @@
     color: white;
     border-radius: 5px;
 }
+@media (max-width:720px){
+    .links{
+    background-color: #c6d988;
+    padding: 40px ;
+    
+    padding-top: 60px;
+}
+ .newsletter-content>input{
+    padding: 6px 4px ;
+    width: 70%;
+    height: 25px;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+.newsletter-content>button{
+    margin-left: 5px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+}   
+.link-lists{
+        display: flex;
+        margin-top: 20px;
+    gap: 20px;
+}
+}

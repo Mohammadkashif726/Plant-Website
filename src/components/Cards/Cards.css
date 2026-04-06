@@ -26,3 +26,19 @@
     color: saddlebrown;
     text-align: center;
 }
+@media  (max-width:420px){
+ .cards{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+ }   
+}
+@media  (max-width:720px){
+ .cards{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+ }   
+}
